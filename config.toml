@@ -4,3 +4,5 @@ title = "The Souldiers"
 theme = "dimension"
 [params]
    	googleMapsAPIKey = "AIzaSyCQvmobUIlVnHhev_Qez_6YwxbpI4t0eko"
+[markup.goldmark.renderer]
+	unsafe = true
