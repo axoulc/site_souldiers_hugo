@@ -5,10 +5,10 @@ title: "Musique"
 
 Vous pouvez nous écouter sur toutes les plateformes de streaming gratuites et payantes. 
 
-# [<i class="fab fa-youtube"></i>](https://youtube.com/c/theSouldiers) [<i class="fab fa-soundcloud"></i>](https://soundcloud.com/thesouldiersband?id=40241123) [<i class="fab fa-bandcamp"></i>](https://thesouldiers.bandcamp.com/) [<i class="fab fa-spotify"></i>](https://open.spotify.com/artist/3aq02n1505kCy4goz6QDr9) [<i class="fab fa-itunes-note"></i>](https://music.apple.com/fr/artist/the-souldiers/1533320102?app=itunes) [<i class="fab fa-amazon"></i>](https://music.amazon.fr/artists/B01ECJ2THQ/the-souldiers)
+<h1><a href="https://youtube.com/c/theSouldiers" target="_blank"><i class="fab fa-youtube"></i></a> <a href="https://soundcloud.com/thesouldiersband?id=40241123" target="_blank"><i class="fab fa-soundcloud"></i></a> <a href="https://thesouldiers.bandcamp.com/" target="_blank"><i class="fab fa-bandcamp"></i></a> <a href="https://open.spotify.com/artist/3aq02n1505kCy4goz6QDr9" target="_blank"><i class="fab fa-spotify"></i></a> <a href="https://music.apple.com/fr/artist/the-souldiers/1533320102?app=itunes" target="_blank"><i class="fab fa-itunes-note"></i></a> <a href="https://music.amazon.fr/artists/B01ECJ2THQ/the-souldiers" target="_blank"><i class="fab fa-amazon"></i></a></h1>
 
 Vous pouvez retrouver un résumé de ces liens sur le bouton suivant :
-# [<i class="fas fa-guitar"></i>](https://songwhip.com/thesouldiers)
+<h1><a href="https://songwhip.com/thesouldiers" target="_blank"><i class="fas fa-guitar"></i></a></h1>
 {{< youtube z6zjoEJQVSU >}}
 {{< youtube FnuUMIK0p1I >}}
 {{< youtube iOCMlWwIQSQ >}}
