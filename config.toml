@@ -1,0 +1,6 @@
+baseURL = "https://the-souldiers.onrender.com"
+languageCode = "en-us"
+title = "The Souldiers"
+theme = "dimension"
+[params]
+   	googleMapsAPIKey = "AIzaSyCQvmobUIlVnHhev_Qez_6YwxbpI4t0eko"
