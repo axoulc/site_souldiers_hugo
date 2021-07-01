@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+weight: 1
 ---
 # Nous Contacter
 
