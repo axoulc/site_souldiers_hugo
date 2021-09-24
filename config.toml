@@ -1,8 +1,16 @@
-baseURL = "https://the-souldiers.onrender.com"
-languageCode = "en-us"
+baseURL = "https://the-souldiers.fr"
+languageCode = "fr-fr"
 title = "The Souldiers"
+tags = ["the-souldiers", "the souldiers", "souldiers", "band", "soul", "soul band", "music", "Lyon", "Soul band in Lyon"]
+category = ["Music"]
 theme = "dimension"
+enableRobotsTXT = true
+
 [params]
    	googleMapsAPIKey = "AIzaSyCQvmobUIlVnHhev_Qez_6YwxbpI4t0eko"
+	author = "Axel Chabot"
+	facebook = "https://www.facebook.com/The-Souldiers-141354808151"
+	sitename = "The Souldiers"
+
 [markup.goldmark.renderer]
 	unsafe = true
