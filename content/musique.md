@@ -10,6 +10,8 @@ Vous pouvez nous écouter sur toutes les plateformes de streaming gratuites et p
 
 Vous pouvez retrouver un résumé de ces liens sur le bouton suivant :
 <div style="text-align: center;"><h1><a href="https://songwhip.com/thesouldiers" target="_blank"><i class="fas fa-play-circle"></i></a></h1></div>
+{{< youtube A_FrFMAGeSo >}}
+{{< youtube cNP5a58Of-0 >}}
 {{< youtube z6zjoEJQVSU >}}
 {{< youtube FnuUMIK0p1I >}}
 {{< youtube iOCMlWwIQSQ >}}

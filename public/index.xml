@@ -1,69 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Souldiers</title>
-    <link>https://the-souldiers.fr/</link>
+    <link>/</link>
     <description>Recent content on The Souldiers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    
-	<atom:link href="https://the-souldiers.fr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr-fr</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A propos</title>
-      <link>https://the-souldiers.fr/apropos/</link>
+      <link>/apropos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://the-souldiers.fr/apropos/</guid>
-      <description>Groupe instrumental de musique venant de Lyon. Orienté Soul et HipHop avec de nombreux featuring avec des chanteurs.</description>
+      <guid>/apropos/</guid>
+      <description>The Souldiers c&amp;rsquo;est un voyage émotionnel au cœur de la musique Soul, qui transporte le public entre des ambiances « cinematic soul » et des rythmiques puissantes, chaloupées et cuivrées. Depuis 2008, forgés par une passion commune des musiques soul/funk afro-américains des années 60/70, les musiciens des Souldiers embarquent leur public dans une expérience portée par un groove basse/batterie, rythmé par deux guitares dynamiques et une section cuivre détonante.
+Basé à Lyon, le groupe multiplie les collaborations avec des artistes talentueux comme Mr Doud, Mounam, Telep ou encore Chrispo, sillonnant les scènes à travers le pays pendant plus de 12 ans.</description>
     </item>
     
     <item>
       <title>Musique</title>
-      <link>https://the-souldiers.fr/musique/</link>
+      <link>/musique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://the-souldiers.fr/musique/</guid>
-      <description> Nous écouter Vous pouvez nous écouter sur toutes les plateformes de streaming gratuites et payantes.
-      Vous pouvez retrouver un résumé de ces liens sur le bouton suivant :          </description>
+      <guid>/musique/</guid>
+      <description>Nous écouter Vous pouvez nous écouter sur toutes les plateformes de streaming gratuites et payantes.
+      Vous pouvez retrouver un résumé de ces liens sur le bouton suivant :
+             </description>
     </item>
     
     <item>
       <title>Photos</title>
-      <link>https://the-souldiers.fr/photos/</link>
+      <link>/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://the-souldiers.fr/photos/</guid>
-      <description>1 1
-      1 2
-      1 3
-      2 1
-      2 2
-      3 1
-      3 2
-      4 1
-      4 2
-      5 1</description>
+      <guid>/photos/</guid>
+      <description> div.gallery { display: flex; flex-wrap: wrap; } div.gallery a { flex-grow: 1; object-fit: cover; margin: 2px; display: flex; } div.gallery a img { height: 200px; object-fit: cover; flex-grow: 1; }                               </description>
     </item>
     
     <item>
       <title>Concerts</title>
-      <link>https://the-souldiers.fr/concerts/</link>
+      <link>/concerts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://the-souldiers.fr/concerts/</guid>
-      <description> 4 décembre 2021 - La Grooverie - 9 Rue du Jardin des Plantes - 69001 Lyon 1er  </description>
+      <guid>/concerts/</guid>
+      <description>  4 décembre 2021 - La Grooverie - 9 Rue du Jardin des Plantes - 69001 Lyon 1er  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://the-souldiers.fr/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://the-souldiers.fr/contact/</guid>
-      <description> Nous Contacter N&amp;rsquo;hésitez pas à nous suivre activement sur les réseaux sociaux et nous contacter par mail à l&amp;rsquo;adresse suivante :
-contact@the-souldiers.fr     </description>
+      <guid>/contact/</guid>
+      <description>Nous Contacter N&amp;rsquo;hésitez pas à nous suivre activement sur les réseaux sociaux et nous contacter par mail à l&amp;rsquo;adresse suivante :
+contact@the-souldiers.fr      </description>
     </item>
     
   </channel>

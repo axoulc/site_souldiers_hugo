@@ -1,39 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://the-souldiers.fr/apropos/</loc>
+    <loc>/apropos/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/musique/</loc>
+    <loc>/musique/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/photos/</loc>
+    <loc>/photos/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/concerts/</loc>
+    <loc>/concerts/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/categories/</loc>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/tags/</loc>
-    <priority>0</priority>
+    <loc>/tags/</loc>
   </url>
   
   <url>
-    <loc>https://the-souldiers.fr/</loc>
+    <loc>/</loc>
   </url>
   
 </urlset>
