@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Souldiers</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on The Souldiers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A propos</title>
-      <link>/apropos/</link>
+      <link>//localhost:1313/apropos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/apropos/</guid>
+      <guid>//localhost:1313/apropos/</guid>
       <description>The Souldiers c&amp;rsquo;est un voyage émotionnel au cœur de la musique Soul, qui transporte le public entre des ambiances « cinematic soul » et des rythmiques puissantes, chaloupées et cuivrées. Depuis 2008, forgés par une passion commune des musiques soul/funk afro-américains des années 60/70, les musiciens des Souldiers embarquent leur public dans une expérience portée par un groove basse/batterie, rythmé par deux guitares dynamiques et une section cuivre détonante.
 Basé à Lyon, le groupe multiplie les collaborations avec des artistes talentueux comme Mr Doud, Mounam, Telep ou encore Chrispo, sillonnant les scènes à travers le pays pendant plus de 12 ans.</description>
     </item>
     
     <item>
       <title>Musique</title>
-      <link>/musique/</link>
+      <link>//localhost:1313/musique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/musique/</guid>
+      <guid>//localhost:1313/musique/</guid>
       <description>Nous écouter Vous pouvez nous écouter sur toutes les plateformes de streaming gratuites et payantes.
       Vous pouvez retrouver un résumé de ces liens sur le bouton suivant :
              </description>
@@ -29,28 +29,28 @@ Basé à Lyon, le groupe multiplie les collaborations avec des artistes talentue
     
     <item>
       <title>Photos</title>
-      <link>/photos/</link>
+      <link>//localhost:1313/photos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/photos/</guid>
+      <guid>//localhost:1313/photos/</guid>
       <description>if (!jQuery) { alert(&#34;jquery is not loaded&#34;); } $( document ).ready(() = { const gallery = $(&#34;#gallery-3c96d59f046d86c0e0906741e6de789b-0&#34;); let swipeboxInstance = null; gallery.</description>
     </item>
     
     <item>
       <title>Concerts</title>
-      <link>/concerts/</link>
+      <link>//localhost:1313/concerts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/concerts/</guid>
+      <guid>//localhost:1313/concerts/</guid>
       <description>  4 décembre 2021 - La Grooverie - 9 Rue du Jardin des Plantes - 69001 Lyon 1er  </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>Nous Contacter N&amp;rsquo;hésitez pas à nous suivre activement sur les réseaux sociaux et nous contacter par mail à l&amp;rsquo;adresse suivante :
 contact@the-souldiers.fr      </description>
     </item>

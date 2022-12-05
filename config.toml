@@ -2,7 +2,7 @@ languageCode = "fr-fr"
 title = "The Souldiers"
 tags = ["the-souldiers", "the souldiers", "souldiers", "band", "soul", "soul band", "music", "Lyon", "Soul band in Lyon"]
 category = ["Music"]
-theme = "dimension"
+theme = ["dimension", "hugo-shortcode-gallery"]
 enableRobotsTXT = true
 
 [params]
